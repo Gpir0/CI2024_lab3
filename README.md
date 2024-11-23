@@ -1,6 +1,6 @@
 In this code, I implemented the A* algorithm (case \( N = 4 \)) and obtained:
-- **Number of iterations**: 356060 (*COST*)  
-- **Number of steps to solve the puzzle**: 44 (*QUALITY*)  
+- **Number of iterations**: 7128359 (*COST*)  
+- **Number of steps to solve the puzzle**: 54 (*QUALITY*)  
 
 ### Choice of Data Structures:
 - Dictionaries and sets allow direct access when checking if a state has already been visited (\( O(1) \)). Storing states in a list would be inefficient due to its \( O(n) \) lookup cost.  
