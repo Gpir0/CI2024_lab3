@@ -6,7 +6,7 @@ The results obtained are the following (N = 4):
 - **Number of iterations**: 1,540,131
 - **Number of steps to solve the puzzle**: 46
 
-### **Bidirectional A\*** (Heuristic Solution):
+### **Bidirectional "dual-frontier" A\*** (Heuristic Solution):
 - **Number of iterations**: 56,956
 - **Number of steps to solve the puzzle**: 48
 ### Choice of Data Structures:
