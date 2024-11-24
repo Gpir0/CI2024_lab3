@@ -15,5 +15,5 @@ The results obtained are the following (N = 4):
 
 ### Note:
 To improve performance, the following optimizations could be implemented:  
-- Avoid recalculating the Manhattan distance at each step.  
+- Avoid recalculating the full Manhattan distance at each step.  
 - Avoid frequent conversions between tuples and `np.array`.  
