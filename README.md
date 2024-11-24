@@ -1,4 +1,4 @@
-First, an **A\*** algorithm was used to guarantee the optimal solution, employing the Manhattan distance between the nodes and the goal state as the heuristic function. Then, a **bidirectional A\*** algorithm was applied, starting from both the top and the bottom of the tree. This algorithm used the Manhattan distance between the current solutions of the paths as the heuristic.
+First, an **A\*** algorithm was used to guarantee the optimal solution, employing the Manhattan distance between the nodes and the goal state as the heuristic function. Then, a **bidirectional A\*** algorithm was applied, starting from both the top and the bottom of the tree. This algorithm used the Manhattan distance between the current top and bottom solutions of the paths as the heuristic.
 
 The results obtained are as follows (N = 4):
 
